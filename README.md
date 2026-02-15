@@ -130,7 +130,7 @@ Proof of Exploitation:
 Figure 1: Burp Intruder scan showing status 200 on valid IP (admin found).
 
 
-![Proof of Successful SSRF Exploitation]()
+![Proof of Successful SSRF Exploitation](https://github.com/venu-maxx/PortSwigger-SSRF-Lab-2/blob/eddd2683d8d5d873144fd72853e5bae234bb61b2/PortSwigger%20SSRF%20Lab%201%20success.png)
 
 Figure 2: Successful deletion of user 'carlos'.
 
