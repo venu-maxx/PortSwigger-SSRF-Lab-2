@@ -135,7 +135,7 @@ Figure 1: Burp Intruder scan showing status 200 on valid IP (admin found).
 Figure 2: Successful deletion of user 'carlos'.
 
 
-![Lab Solved Congratulations]()
+![Lab Solved Congratulations](https://github.com/venu-maxx/PortSwigger-SSRF-Lab-2/blob/50076e05649af40d9578cbcc51e6f73a46107518/PortSwigger%20SSRF%20Lab%202%20Lab%20Completion.png)
 
 Figure 3: PortSwigger Academy confirmation – "Congratulations, you solved the lab!"
 
