@@ -125,7 +125,7 @@ Content-Type: text/html; charset=utf-8
 Proof of Exploitation:
 
 
-![Proof of SSRF Error]()
+![Proof of SSRF Error](https://github.com/venu-maxx/PortSwigger-SSRF-Lab-2/blob/b337de10e117a07d58eec8b767dfae3339f03b77/PortSwigger-SSRF-Lab-2%20Error.png)
 
 Figure 1: Burp Intruder scan showing status 200 on valid IP (admin found).
 
